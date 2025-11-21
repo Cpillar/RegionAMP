@@ -90,3 +90,7 @@ Project tree (concise)
 - `model/` core library code (configs, data, models, metrics, training, nested CV, eval, predict, CLI)
 - `scripts/` operational entrypoints for common workflows
 - notebooks and model artifacts remain alongside for reference (`ReigonAMPCRF*.ipynb`, etc.)
+
+Dataset availability
+--------------------
+The datasets will be published on the day our article is officially released.
