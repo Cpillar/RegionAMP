@@ -85,11 +85,6 @@ Ops-friendly wrappers are in `scripts/`:
 - `python scripts/evaluate_iou.py ...`
 - `python scripts/predict.py --fasta your_sequences.fasta ...`
 
-Project tree (concise)
-----------------------
-- `model/` core library code (configs, data, models, metrics, training, nested CV, eval, predict, CLI)
-- `scripts/` operational entrypoints for common workflows
-- notebooks and model artifacts remain alongside for reference (`ReigonAMPCRF*.ipynb`, etc.)
 
 Dataset availability
 --------------------
